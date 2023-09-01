@@ -1,6 +1,9 @@
 # gbs-context-model
 
-A conceptual replication of [1] with a feedforward neural network and a GRU. The feedforward network was tested on a context dependented classification task. 
+A conceptual replication of [1] with a feedforward neural network and a GRU. 
+The feedforward network was tested on a context-dependent classification task. 
+
+I haven't had enough time to move the tests for context-dependent GRU here yet... 
 
 ## my conda env 
 The env.txt was made with the following cmd:
